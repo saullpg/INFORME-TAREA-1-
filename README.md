@@ -8,12 +8,10 @@
  -EJERCICIOS CAPITULO 1
 
 2. Exprese cada número fraccionario en notación científica: 
-| a) 1/500 | 2x10<sup>-3</sup> |
-(a) 1/500 
-(b) 1/2000 
-(c) 1/5,000,000
+
 ```sh
-cd dillinger
+| a) 1/500 | 2x10<sup>-3</sup> |
+
 npm i
 node app
 ```
