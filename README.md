@@ -8,9 +8,9 @@
  -EJERCICIOS CAPITULO 1
 
 2. Exprese cada número fraccionario en notación científica: 
-
+<>| a) 1/500 | 2x10<sup>-3</sup> |
 ```sh
-| a) 1/500 | 2x10<sup>-3</sup> |
+
 
 npm i
 node app
