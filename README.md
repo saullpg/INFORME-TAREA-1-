@@ -33,6 +33,12 @@
 
 8. Exprese cada número de los siguientes como un número decimal regular:
 
+| Notación Científica  | Número Decimal |
+| ------------- | ------------- |
+| a) 4.5x10<sup>-6</sup>  | 0.0000045  |
+| b) 8x10<sup>-9</sup>  | 0.000000008  |
+| c) 4.0x10<sup>-12</sup>  | 0.000000000004  |
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
