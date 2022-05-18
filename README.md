@@ -23,6 +23,14 @@
 | b) 0.6  | 6x10<sup>-1</sup>  |
 | c) 7.8x10<sup>-2</sup>  | 78x10<sup>-3</sup>  |
 
+6. Exprese cada uno de los números siguientes como un número decimal regular:
+
+| Notacion Cientifica  | Numero |
+| ------------- | ------------- |
+| a) 2x10<sup>5</sup>  | 200000  |
+| b) 5.4x10<sup>-9</sup>  | 0.000000054  |
+| c) 1.0x10<sup>1</sup>  | 10  |
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
