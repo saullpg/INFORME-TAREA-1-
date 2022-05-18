@@ -1,2 +1,5 @@
 # INFORME-TAREA-1-
-
+----------------
+## 1.-OBJETIVO
+### OBJETIVO GENERAL
+### OBJETIVO ESPECIFICO
