@@ -9,7 +9,7 @@
 
 2. Exprese cada número fraccionario en notación científica: 
 
-| Numero Fraccionario  | Notacion Cientifica |
+| Número Fraccionario  | Notación Científica |
 | ------------- | ------------- |
 | a) 1/500  | 2x10<sup>-3</sup>  |
 | b) 1/2000  | 5x10<sup>-4</sup>  |
@@ -17,7 +17,7 @@
 
 4. Exprese cada uno de los números siguientes en notación científica:
 
-| Numero  | Notacion Cientifica |
+| Número  | Notación Científica |
 | ------------- | ------------- |
 | a) 0.0002  | 2x10<sup>-4</sup>  |
 | b) 0.6  | 6x10<sup>-1</sup>  |
@@ -25,11 +25,13 @@
 
 6. Exprese cada uno de los números siguientes como un número decimal regular:
 
-| Notacion Cientifica  | Numero |
+| Notación Científica  | Número |
 | ------------- | ------------- |
 | a) 2x10<sup>5</sup>  | 200000  |
 | b) 5.4x10<sup>-9</sup>  | 0.000000054  |
 | c) 1.0x10<sup>1</sup>  | 10  |
+
+8. Exprese cada número de los siguientes como un número decimal regular:
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
