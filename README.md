@@ -15,7 +15,7 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| a) 1/500  | 2x10<sup>-3</sup>  |
 | Content Cell  | Content Cell  |
 
 
