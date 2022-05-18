@@ -9,7 +9,7 @@
 
 2. Exprese cada número fraccionario en notación científica: 
 
-| Numero Fraccionario  | NOtacion Cinetifica |
+| Numero Fraccionario  | Notacion Cientifica |
 | ------------- | ------------- |
 | a) 1/500  | 2x10<sup>-3</sup>  |
 | b) 1/2000  | 5x10<sup>-4</sup>  |
