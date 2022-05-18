@@ -39,6 +39,14 @@
 | b) 8x10<sup>-9</sup>  | 0.000000008  |
 | c) 4.0x10<sup>-12</sup>  | 0.000000000004  |
 
+10. Efectúe las siguientes sustracciones:
+
+| Sustracción  | Respuestas |
+| ------------- | ------------- |
+| a) (3.2x10<sup>12</sup>)-(1.1x10<sup>12</sup>)  | 2.1x10<sup>12</sup>  |
+| b) (2.6x10<sup>8</sup>)-(1.3x10<sup>7</sup>)  | 24.7x10<sup>7</sup>  |
+| c) (1.5x10<sup>-12</sup>)-(8x10<sup>-13</sup>)  | 7x10<sup>-13</sup>  |
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
