@@ -175,7 +175,19 @@ c)5C en 2s
 ![ej14a](https://user-images.githubusercontent.com/105374903/169199678-f1e5ad27-fdb8-4904-a46d-ab8a6be5e870.jpg)
 ![ej14b](https://user-images.githubusercontent.com/105374903/169199692-8a05a04c-d693-4124-93fa-c6616d255225.jpg)
 
+16  Encuentre la resistencia correspondiente a las siguientes conductancias:
 
+a) 0.1S
+
+![ej16](https://user-images.githubusercontent.com/105374903/169200654-1817c589-aa02-4e09-831d-7131394f8b74.jpg)
+
+b) 0.5S
+
+![ej16b](https://user-images.githubusercontent.com/105374903/169200673-aeca6c5d-e3e7-4a8c-999a-0e5ec83a6e3f.jpg)
+
+c) 0.02S
+
+![ej16c](https://user-images.githubusercontent.com/105374903/169200692-ac441d3e-14a4-4caa-90eb-8eca8e255f92.jpg)
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
