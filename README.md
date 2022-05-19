@@ -82,11 +82,27 @@
 
 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
 
-| Número  | Número |
+| Número  | Prefijo Métrico |
 | ------------- | ------------- |
-| a) 89000  | 89k ohm  |
-| b) 450000  | 450k ohm  |
-| c) 12040000000000  | 12.04T ohm  |
+| a) 89000  | 89 kohm  |
+| b) 450000  | 450 kohm  |
+| c) 12040000000000  | 12.04 Tohm  |
+
+22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+
+| Número  | Prefijo Métrico |
+| ------------- | ------------- |
+| a) 31x10<sup>-3</sup>A  | 31 mA  |
+| b) 5.5x10<sup>3</sup>V  | 5.5 kV  |
+| c) 20x10<sup>-12</sup>F  | 12.04 pF  |
+
+24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+
+| Número  | Prefijo Métrico |
+| ------------- | ------------- |
+| a) 2.5x10<sup>-12</sup>A  | 2.5 pA  |
+| b) 8x10<sup>9</sup>Hz  | 5.5 GHz  |
+| c) 4.7x10<sup>3</sup>ohm  | 4.7 kohm  |
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
