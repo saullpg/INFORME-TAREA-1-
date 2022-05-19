@@ -113,6 +113,13 @@
 | c) 275 kohm | 275x10<sup>3</sup>ohm  |
 | d) 10 MW | 10x10<sup>6</sup>W  |
 
+28. Determine lo siguiente:
+
+*a. El numero de microamperes en 1 miliampere
+*b. El numero de milivolts en 0.05 kilovolts
+*c. El numero megaohms en 0.02 kilohms
+*d. El numero de kilowatts en 155 miliwatts
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
