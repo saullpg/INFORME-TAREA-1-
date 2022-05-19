@@ -104,6 +104,15 @@
 | b) 8x10<sup>9</sup>Hz  | 5.5 GHz  |
 | c) 4.7x10<sup>3</sup>ohm  | 4.7 kohm  |
 
+26. Exprese cada cantidad en notación de ingeniería:
+
+| Prefijo Métrico  | Número |
+| ------------- | ------------- |
+| a) 5 uA  | 5x10<sup>-6</sup>A  |
+| b) 43 mV  | 43x10<sup>-3</sup>V  |
+| c) 275 kohm | 275x10<sup>3</sup>ohm  |
+| d) 10 MW | 10x10<sup>6</sup>W  |
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
