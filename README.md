@@ -249,7 +249,14 @@ c)1501F = 1501 ohm 1%
 
 32  Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
 
+![EJ 32](https://user-images.githubusercontent.com/105374903/169212556-2d6576d6-cbcb-4842-b7ce-f292a90c3507.jpg)
+
 34  ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+
+La resistencia R5 simepre tendra corriente
+
+![EJ 34](https://user-images.githubusercontent.com/105374903/169212884-d9c49224-a059-4051-a743-89fc2f3956be.jpg)
+
 
 36  Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
