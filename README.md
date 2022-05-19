@@ -127,6 +127,15 @@ c. El número megaohms en 0.02 kilohms:
 d. El número de kilowatts en 155 miliwatts:
  0.000155 kW
 
+30. Realice las siguientes operaciones:
+
+| Operaciones  | Resultado |
+| ------------- | ------------- |
+| a) 10 kohm / (2.2 kohm + 10 kohm)  | 0.819 ohm  |
+| b) 250 mV / 50uV  | 5 kV |
+| c) 1 MW / 2kW | 500 W |
+
+
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
