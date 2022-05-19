@@ -47,6 +47,14 @@
 | b) (2.6x10<sup>8</sup>)-(1.3x10<sup>7</sup>)  | 24.7x10<sup>7</sup>  |
 | c) (1.5x10<sup>-12</sup>)-(8x10<sup>-13</sup>)  | 7x10<sup>-13</sup>  |
 
+12. Realice las siguientes divisiones:
+
+| Divisiones  | Respuestas |
+| ------------- | ------------- |
+| a) (1.0x10<sup>3</sup>)/(2.5x10<sup>12</sup>)  | 4  |
+| b) (2.5x10<sup>-6</sup>)/(5.0x10<sup>-8</sup>)  | 50  |
+| c) (4.2x10<sup>8</sup>)/(2x10<sup>-5</sup>)  | 21x10<sup>12</sup>  |
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
