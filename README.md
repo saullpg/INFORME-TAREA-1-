@@ -148,7 +148,10 @@ d. El número de kilowatts en 155 miliwatts:
 6 Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 <img width="191" alt="image" src="https://user-images.githubusercontent.com/105374903/169196583-7f2b9fb4-b624-4807-9972-c676438773ab.png">
 
+8 ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+![ej8](https://user-images.githubusercontent.com/105374903/169196981-8bf489a1-e8a9-4bc1-aa6d-4cc98cb0cdb7.jpg)
 
+10 Determine la corriente en cada uno de los siguientes casos:
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
