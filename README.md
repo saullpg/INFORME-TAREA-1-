@@ -274,7 +274,7 @@ Para medir cualquier resistencia necesitamos un ohmetro el cual se ubica un cabl
 
 CONEXIÓN DE AMPERIMETRO
 
-![ej40](https://user-images.githubusercontent.com/105374903/169218838-921291af-57c3-4e4f-a5d7-9b2e35f49be9.jpg)
+![ej40](https://user-images.githubusercontent.com/105374903/169315758-c4d64f09-558b-4389-98d5-3171430bd854.jpg)
 
 42 Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistorpresente en la figura 2-70.
 
