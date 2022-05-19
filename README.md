@@ -116,7 +116,7 @@
 28. Determine lo siguiente:
 
 a. El número de microamperes en 1 miliampere:
-
+{\color{Red}3 }
 b. El número de milivolts en 0.05 kilovolts:
 
 c. El número megaohms en 0.02 kilohms:
