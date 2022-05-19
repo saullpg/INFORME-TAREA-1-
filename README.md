@@ -116,16 +116,16 @@
 28. Determine lo siguiente:
 
 a. El número de microamperes en 1 miliampere:
- 1000x10<sup>-6</sup>A
+ 1000 uA
 
 b. El número de milivolts en 0.05 kilovolts:
- 50000x10<sup>-3</sup>V
+ 50000 mV
 
 c. El número megaohms en 0.02 kilohms:
- 0.000002x10<sup>6</sup>ohms
+ 0.000002 Mohms
 
 d. El número de kilowatts en 155 miliwatts:
- 0.000155x10<sup>3</sup>W
+ 0.000155 kW
 
 
 #### 4. VIDEO
