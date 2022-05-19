@@ -239,6 +239,14 @@ Resistencia: 9.31 kohms        Tolerancia: 1%
 
 ![ej 28](https://user-images.githubusercontent.com/105374903/169210350-0cc9f642-0931-4209-a6f9-66f19b708673.jpg)
 
+30  Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+
+a)4R7J = 4.7 ohm 5%
+
+b)5602M = 5602 Mohms
+
+c)1501F = 1501 ohm 1%
+
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
