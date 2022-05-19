@@ -137,15 +137,16 @@ d. El número de kilowatts en 155 miliwatts:
 
 -EJERCICIOS CAPITULO 2
 
-2) ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
+2 ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
     4.64x10<sup>-18</sup>C
 
-4) ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
+4 ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 ![ej4](https://user-images.githubusercontent.com/105374903/169193733-6a67f6f5-b6b1-45fa-b721-e340d383dc3c.jpg)
 
 
-6) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+6 Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+<img width="191" alt="image" src="https://user-images.githubusercontent.com/105374903/169196583-7f2b9fb4-b624-4807-9972-c676438773ab.png">
 
 
 #### 4. VIDEO
