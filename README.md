@@ -153,6 +153,18 @@ d. El número de kilowatts en 155 miliwatts:
 ![ej8](https://user-images.githubusercontent.com/105374903/169196981-8bf489a1-e8a9-4bc1-aa6d-4cc98cb0cdb7.jpg)
 
 10 Determine la corriente en cada uno de los siguientes casos:
+a) 75C en 1s
+![ej10a](https://user-images.githubusercontent.com/105374903/169197858-bffea66a-67c6-4830-b10c-1fa13c6bea78.jpg)
+
+
+b)10C en 0.5s
+![ej10b](https://user-images.githubusercontent.com/105374903/169197873-1c251867-3c00-4d74-8467-c95b6307f28c.jpg)
+
+
+c)5C en 2s
+![ej10c](https://user-images.githubusercontent.com/105374903/169197901-2f25a515-0f16-4941-bbc3-13deaadb5adc.jpg)
+
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
