@@ -268,6 +268,14 @@ Para medir cualquier resistencia necesitamos un ohmetro el cual se ubica un cabl
 
 ![ej38](https://user-images.githubusercontent.com/105374903/169217085-8b534e73-a6ee-490c-ba0d-d75a06b5b439.jpg)
 
+40 En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
+
+![ej40a](https://user-images.githubusercontent.com/105374903/169218828-0bc4bd68-a326-45ab-9bef-113baa6a46df.jpg)
+
+CONEXIÓN DE AMPERIMETRO
+
+![ej40](https://user-images.githubusercontent.com/105374903/169218838-921291af-57c3-4e4f-a5d7-9b2e35f49be9.jpg)
+
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
