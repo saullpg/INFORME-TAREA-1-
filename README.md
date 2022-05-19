@@ -207,7 +207,33 @@ b)cafe,gris,rojo,plata
 
 ![ej22b](https://user-images.githubusercontent.com/105374903/169203579-a86ac666-b64f-4fc9-8943-2178b6112241.jpg)
 
+24 Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 
+a) café, negro, negro, oro
+
+Resistencia: 10 ohms        Tolerancia: 5%
+
+b) verde, café, verde, plata
+
+Resistencia: 5.1 Mohms      Tolerancia: 10%
+
+c) azul, gris, negro, oro
+
+Resistencia: 68 ohms        Tolerancia: 5%
+
+26 Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+
+a) rojo, gris, violeta, rojo, café
+
+Resistencia: 28.70 kohms        Tolerancia: 1%
+
+b) azul, negro, amarillo, oro, café
+
+Resistencia: 60.4 ohms        Tolerancia: 1%
+
+c) blanco, naranja, café, café, café
+
+Resistencia: 9.31 kohms        Tolerancia: 1%
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
