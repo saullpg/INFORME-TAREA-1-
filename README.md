@@ -199,6 +199,15 @@ Los generadores eléctricos convierten la energía mecánica en energía eléctr
 
 22 Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
 
+a) rojo,violeta,naranja,oro
+
+![ej22](https://user-images.githubusercontent.com/105374903/169203499-810ac36f-e134-4925-b457-fd381c8e08ba.jpg)
+
+b)cafe,gris,rojo,plata
+
+![ej22b](https://user-images.githubusercontent.com/105374903/169203579-a86ac666-b64f-4fc9-8943-2178b6112241.jpg)
+
+
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
