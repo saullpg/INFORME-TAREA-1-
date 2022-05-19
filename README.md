@@ -80,6 +80,14 @@
 | c) 100*(55x10<sup>-3</sup>)  | 5500x10<sup>-3</sup>  |
 
 
+20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
+
+| Número  | Número |
+| ------------- | ------------- |
+| a) 89,000  | 200000  |
+| b) 450,000sup>-9</sup>  | 0.000000054  |
+| c) 12040000000000sup>  | 10  |
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
