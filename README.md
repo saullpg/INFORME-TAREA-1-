@@ -260,6 +260,8 @@ La resistencia R5 simepre tendra corriente
 
 36  Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
+![ej36](https://user-images.githubusercontent.com/105374903/169214497-24d1d81a-d9fb-465d-b0b7-0067707d42d0.jpg)
+
 
 
 #### 4. VIDEO
