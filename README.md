@@ -115,12 +115,14 @@
 
 28. Determine lo siguiente:
 
-**a. El numero de microamperes en 1 miliampere
+a. El número de microamperes en 1 miliampere:
 
+b. El número de milivolts en 0.05 kilovolts:
 
-**b. El numero de milivolts en 0.05 kilovolts
-**c. El numero megaohms en 0.02 kilohms
-**d. El numero de kilowatts en 155 miliwatts
+c. El número megaohms en 0.02 kilohms:
+
+d. El número de kilowatts en 155 miliwatts:
+
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
