@@ -262,6 +262,11 @@ La resistencia R5 simepre tendra corriente
 
 ![ej36](https://user-images.githubusercontent.com/105374903/169214497-24d1d81a-d9fb-465d-b0b7-0067707d42d0.jpg)
 
+38 Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
+Para medir cualquier resistencia necesitamos un ohmetro el cual se ubica un cable al inicio de la resistencia y otro al final de la resistencia si el circuito donde esta la resistencia esta encendido la resistencia no marca su valor real.
+
+![ej38](https://user-images.githubusercontent.com/105374903/169217085-8b534e73-a6ee-490c-ba0d-d75a06b5b439.jpg)
 
 
 #### 4. VIDEO
