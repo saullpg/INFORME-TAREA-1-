@@ -166,6 +166,17 @@ c)5C en 2s
 
 ![ej10c](https://user-images.githubusercontent.com/105374903/169197901-2f25a515-0f16-4941-bbc3-13deaadb5adc.jpg)
 
+12 ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+![ej12](https://user-images.githubusercontent.com/105374903/169198410-db252d44-83c0-4171-a73a-cb3e2d0f819b.jpg)
+
+14 5.74x10<sup>17</sup> electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+![ej14a](https://user-images.githubusercontent.com/105374903/169199678-f1e5ad27-fdb8-4904-a46d-ab8a6be5e870.jpg)
+![ej14b](https://user-images.githubusercontent.com/105374903/169199692-8a05a04c-d693-4124-93fa-c6616d255225.jpg)
+
+
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
