@@ -276,9 +276,9 @@ CONEXIÓN DE AMPERIMETRO
 
 ![ej40](https://user-images.githubusercontent.com/105374903/169315758-c4d64f09-558b-4389-98d5-3171430bd854.jpg)
 
-42 Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistorpresente en la figura 2-70.
+42 Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
 
-![FIG270](https://user-images.githubusercontent.com/105374903/169320116-d04313b1-9e08-4f4d-ae95-9fd49977fc2a.jpg)
+![ej42](https://user-images.githubusercontent.com/105374903/169329129-8f880409-392b-43a4-9087-72413a1586a5.jpg)
 
 44 ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
