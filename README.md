@@ -266,7 +266,7 @@ La resistencia R5 simepre tendra corriente
 
 Para medir cualquier resistencia necesitamos un ohmetro el cual se ubica un cable al inicio de la resistencia y otro al final de la resistencia si el circuito donde esta la resistencia esta encendido la resistencia no marca su valor real.
 
-![ej38](https://user-images.githubusercontent.com/105374903/169217085-8b534e73-a6ee-490c-ba0d-d75a06b5b439.jpg)
+![ej38](https://user-images.githubusercontent.com/105374903/169313937-4e32addf-6a6e-46a1-a1ef-44b495c9a58c.jpg)
 
 40 En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
 
