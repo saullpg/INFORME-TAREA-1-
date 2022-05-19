@@ -278,6 +278,10 @@ CONEXIÓN DE AMPERIMETRO
 
 42 Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistorpresente en la figura 2-70.
 
+![FIG270](https://user-images.githubusercontent.com/105374903/169320116-d04313b1-9e08-4f4d-ae95-9fd49977fc2a.jpg)
+![EJ42](https://user-images.githubusercontent.com/105374903/169320205-04765315-467f-4295-afab-df12ce16ede4.jpg)
+
+
 44 ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
 46 ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
