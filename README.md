@@ -55,6 +55,31 @@
 | b) (2.5x10<sup>-6</sup>)/(5.0x10<sup>-8</sup>)  | 50  |
 | c) (4.2x10<sup>8</sup>)/(2x10<sup>-5</sup>)  | 21x10<sup>12</sup>  |
 
+14. Exprese cada número en notación de ingeniería:
+
+| Número  | Notación de Ingeniería |
+| ------------- | ------------- |
+| a) 2.35x10<sup>5</sup>  | 235x10<sup>3</sup>  |
+| b) 7.32x10<sup>7</sup>  | 73.2x10<sup>6</sup>  |
+| c) 4.2x10<sup>8</sup>  | 420x10<sup>6</sup>  |
+
+16. Exprese cada número en notación de ingeniería
+
+| Número  | Notación de Ingeniería |
+| ------------- | ------------- |
+| a) 9.81x10<sup>-3</sup>  | 9810x10<sup>-6</sup>  |
+| b) 4.82x10<sup>-4</sup>  | 48.2x10<sup>-3</sup>  |
+| c) 4.38x10<sup>-7</sup>  | 43.8x10<sup>-6</sup>  |
+
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+
+| Multiplicaciones  | Respuestas |
+| ------------- | ------------- |
+| a) (32x10<sup>-3</sup>)*(56x10<sup>3</sup>)  | 1.792x10<sup>3</sup>  |
+| b) (1.2x10<sup>-6</sup>)*(1.2x10<sup>-6</sup>)  | 1.44x10<sup>-12</sup>  |
+| c) 100*(55x10<sup>-3</sup>)  | 5500x10<sup>-3</sup>  |
+
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
