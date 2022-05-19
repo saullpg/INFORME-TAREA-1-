@@ -5,7 +5,7 @@
 ##### 1.2. OBJETIVO ESPECIFICO
 #### 2. MARCO TEORICO
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
- -EJERCICIOS CAPITULO 1
+## EJERCICIOS CAPITULO 1
 
 2. Exprese cada número fraccionario en notación científica: 
 
@@ -135,7 +135,7 @@ d. El número de kilowatts en 155 miliwatts:
 | b) 250 mV / 50uV  | 5 kV |
 | c) 1 MW / 2kW | 500 W |
 
--EJERCICIOS CAPITULO 2
+## EJERCICIOS CAPITULO 2
 
 2 ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
