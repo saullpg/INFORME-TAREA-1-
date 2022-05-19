@@ -282,6 +282,8 @@ CONEXIÓN DE AMPERIMETRO
 
 44 ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
+La medición de la resistencia es de 100 ohm
+
 ![ej44](https://user-images.githubusercontent.com/105374903/169322925-388162ed-ddac-486d-aa09-a3bdd157d8cb.jpg)
 
 46 ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
