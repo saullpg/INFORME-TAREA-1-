@@ -117,12 +117,16 @@
 
 a. El número de microamperes en 1 miliampere:
  1000x10<sup>-6</sup>A
+
 b. El número de milivolts en 0.05 kilovolts:
  50000x10<sup>-3</sup>V
+
 c. El número megaohms en 0.02 kilohms:
  0.000002x10<sup>6</sup>ohms
+
 d. El número de kilowatts en 155 miliwatts:
  0.000155x10<sup>3</sup>W
+
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
