@@ -193,6 +193,13 @@ c) 0.02S
 
 Los generadores eléctricos convierten la energía mecánica en energía eléctrica por medio de un principio llamado inducción electromagnética . Se hace girar un conductor a través de un campo magnético, y de este modo se produce un voltaje que pasa porel conductor.
 
+20  Cierta fuente de corriente proporciona 100 mA a 1 kohm de carga. Si la resistencia disminuye a 500 ohm, ¿cuál es la corriente en la carga?
+
+![ej20](https://user-images.githubusercontent.com/105374903/169202108-dc14ace5-6e41-410b-9646-c3ceea49ef83.jpg)
+
+22 Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
