@@ -235,6 +235,11 @@ c) blanco, naranja, café, café, café
 
 Resistencia: 9.31 kohms        Tolerancia: 1%
 
+28 El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 ohm, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+![ej 28](https://user-images.githubusercontent.com/105374903/169210350-0cc9f642-0931-4209-a6f9-66f19b708673.jpg)
+
+
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
