@@ -145,50 +145,6 @@ d. El número de kilowatts en 155 miliwatts:
 ![ej4](https://user-images.githubusercontent.com/105374903/169193733-6a67f6f5-b6b1-45fa-b721-e340d383dc3c.jpg)
 
 
-6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
-
-8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
-
-10.  Determine la corriente en cada uno de los siguientes casos:
-
-12.  ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
-
-14.  5.74x10<sup>17</sup> electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
-
-16.  Encuentre la resistencia correspondiente a las siguientes conductancias:
- 
-18.  ¿En qué principio se basan los generadores eléctricos?
-
-20.  Cierta fuente de corriente proporciona 100 mA a 1 kohm de carga. Si la resistencia disminuye a 500 ohm, ¿cuál es la corriente en la carga?
-
-22.  Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
-
-24.  Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
-
-a) café, negro, negro, oro
-
-b) verde, café, verde, plata
-
-c) azul, gris, negro, oro
-
-26.  Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
-
-a) rojo, gris, violeta, rojo, café
-
-b) azul, negro, amarillo, oro, café
-
-c) blanco, naranja, café, café, café
-
-28.  El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 ohm, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
-
-30.  Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
-
-32.  Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
-
-34.  ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
-
-36.  Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador
-de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
