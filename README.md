@@ -3,7 +3,7 @@
 #### 1. OBJETIVO
 ##### 1.1. OBJETIVO GENERAL
 
--Comprender la relación del voltaje, intensidad y resistencia en circuitos básicos que nos permita aplicarlo en distintos problemas electricos.  
+- Comprender la relación del voltaje, intensidad y resistencia en circuitos básicos que nos permita aplicarlo en distintos problemas electricos.  
 
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
