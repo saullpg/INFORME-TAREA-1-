@@ -346,6 +346,11 @@ Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 #### 4. VIDEO
 #### 5. CONCLUSIONES
+
+-  La intensidad que recorre un circuito es directamente proporcional al voltaje de la fuente e inversamente proporcional a la resistencia.
+-  Podemos encontrar el valor de cualquier resistencia sin embargo solo se pueden conseguir resistencias comerciales con valores ya definidos.
+-  La incorporacion de prefijos métricos en valores eléctricos permite evitar la notación de ingenieria.
+
 #### 6. BIBLIOGRAFIA
 
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
