@@ -55,6 +55,8 @@ A continuación, se enumeran algunos de los prefijos más comunes en la ingenier
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 ### EJERCICIOS CAPITULO 1
 
+----------------------------------------------
+
 2. Exprese cada número fraccionario en notación científica: 
 
 | Número Fraccionario  | Notación Científica |
