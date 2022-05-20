@@ -185,6 +185,8 @@ d. El número de kilowatts en 155 miliwatts:
 
 ### EJERCICIOS CAPITULO 2
 
+----------------------------------------------
+
 2 ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
    4.64x10<sup>-18</sup>C
