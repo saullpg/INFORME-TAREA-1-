@@ -5,7 +5,6 @@
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
 - Identificar las unidades electricas fundamentales y sus unidades derivadas
-
 - Aplicar correctamente los prefijos métricos y sus símbolos
 - Reconocer los distintos valores de resistencia mediante el uso de código de colores
 - Conocer las caracteristicas del Voltaje, Intensidad y Resistencia
