@@ -14,6 +14,14 @@
 - Realizar mediciones de voltaje y amperaje en circuitos básicos.
 
 #### 2. MARCO TEORICO
+
+##### VOLTAJE
+
+El voltaje es la energía por unidad de carga, o el trabajo necesario para mover una carga de un punto a otro y se mide en voltios si se utiliza el sistema internacional de unidades, y se refiere a la diferencia de potencial eléctrico en un circuito. Imaginemos pues, una carretera, en ella hay muchos carros la gasolina es la energía que el carro necesita para ir de un punto al otro, o sea, la gasolina es el voltaje.
+
+![image](https://user-images.githubusercontent.com/105374903/169439036-47174c76-f218-4cce-bab8-854a86d32019.png)
+
+
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 ## EJERCICIOS CAPITULO 1
 
