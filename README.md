@@ -15,7 +15,7 @@
 
 #### 2. MARCO TEORICO
 
-#### VOLTAJE
+### VOLTAJE
 
 El voltaje es la energía por unidad de carga, o el trabajo necesario para mover una carga de un punto a otro y se mide en voltios si se utiliza el sistema internacional de unidades, y se refiere a la diferencia de potencial eléctrico en un circuito. Imaginemos pues, una carretera, en ella hay muchos carros la gasolina es la energía que el carro necesita para ir de un punto al otro, o sea, la gasolina es el voltaje.
 
