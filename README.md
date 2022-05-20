@@ -4,11 +4,12 @@
 ##### 1.1. OBJETIVO GENERAL
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
-> Identificar las unidades electricas fundamentales y sus unidades derivadas
-> Aplicar correctamente los prefijos métricos y sus símbolos
-> Reconocer los distintos valores de resistencia mediante el uso de código de colores
-> Conocer las caracteristicas del Voltaje, Intensidad y Resistencia
-> Realizar mediciones de voltaje y amperaje en circuitos básicos
+- Identificar las unidades electricas fundamentales y sus unidades derivadas
+
+- Aplicar correctamente los prefijos métricos y sus símbolos
+- Reconocer los distintos valores de resistencia mediante el uso de código de colores
+- Conocer las caracteristicas del Voltaje, Intensidad y Resistencia
+- Realizar mediciones de voltaje y amperaje en circuitos básicos
 
 #### 2. MARCO TEORICO
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
