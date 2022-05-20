@@ -203,7 +203,7 @@ c) 0.02S
 
 18  ¿En qué principio se basan los generadores eléctricos?
 
-Los generadores eléctricos convierten la energía mecánica en energía eléctrica por medio de un principio llamado inducción electromagnética . Se hace girar un conductor a través de un campo magnético, y de este modo se produce un voltaje que pasa porel conductor.
+Los generadores eléctricos convierten la energía mecánica en energía eléctrica por medio de un principio llamado inducción electromagnética . Se hace girar un conductor a través de un campo magnético, y de este modo se produce un voltaje que pasa por el conductor.
 
 20  Cierta fuente de corriente proporciona 100 mA a 1 kohm de carga. Si la resistencia disminuye a 500 ohm, ¿cuál es la corriente en la carga?
 
