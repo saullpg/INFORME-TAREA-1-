@@ -343,3 +343,9 @@ Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
+
+Ariza Mendoza, J. M. (2008). La resolución de problemas como estrategia didáctica para favorecer el aprendizaje significativo de los conceptos de voltaje, resistencia y corriente eléctrica. Un estudio realizado con estudiantes de octavo semestre del Programa de Ingeniería Electrónica de la Institución Universitaria Los Libertadores.
+
+Notación Científica: teoría, ejemplos y test en línea: secundaria. (2022). Matesfacil.com. https://www.matesfacil.com/ESO/numeros/notacion_cientifica/teoria-ejemplos-numeros-decimales-exponente-positivo-negativo-base-10-test.html
+
+Khan Academy. (2022). Khanacademy.org. https://es.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/a/ee-numbers-in-electrical-engineering#:~:text=es%20un%20coulomb%3F-,La%20notaci%C3%B3n%20de%20ingenier%C3%ADa,intervalo%20de%201%20a%20999.
