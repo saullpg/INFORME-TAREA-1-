@@ -345,6 +345,9 @@ La medición de la resistencia es de 100 ohm
 Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 #### 4. VIDEO
+
+https://youtu.be/FF64Pkoq3As
+
 #### 5. CONCLUSIONES
 
 -  La intensidad que recorre un circuito es directamente proporcional al voltaje de la fuente e inversamente proporcional a la resistencia.
