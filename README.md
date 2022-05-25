@@ -53,6 +53,8 @@ A continuación, se enumeran algunos de los prefijos más comunes en la ingenier
 
 ![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/170170727-0ae7ab6c-767d-447e-93b4-6b96a692a73f.png)
 
+![d3](https://user-images.githubusercontent.com/105374903/170180317-e7839651-bc49-4e95-914e-8ac065b76589.png)
+
 ![d2](https://user-images.githubusercontent.com/105374903/170179266-baafd110-3e6b-4f13-8579-7bd127882347.png)
 
 
