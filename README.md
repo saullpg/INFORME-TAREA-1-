@@ -51,6 +51,7 @@ A continuación, se enumeran algunos de los prefijos más comunes en la ingenier
 
 ![image](https://user-images.githubusercontent.com/105374903/169439898-f9c0325c-90c2-4f2f-8348-5987ebaf78f2.png)
 
+![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/170170727-0ae7ab6c-767d-447e-93b4-6b96a692a73f.png)
 
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 ### EJERCICIOS CAPITULO 1
