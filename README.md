@@ -15,42 +15,6 @@
 
 #### 2. MARCO TEORICO
 
-#### VOLTAJE
-
-El voltaje es la energía por unidad de carga, o el trabajo necesario para mover una carga de un punto a otro y se mide en voltios si se utiliza el sistema internacional de unidades, y se refiere a la diferencia de potencial eléctrico en un circuito. Imaginemos pues, una carretera, en ella hay muchos carros la gasolina es la energía que el carro necesita para ir de un punto al otro, o sea, la gasolina es el voltaje.
-
-![image](https://user-images.githubusercontent.com/105374903/169439036-47174c76-f218-4cce-bab8-854a86d32019.png)
-
-#### CORRIENTE ELÉCTRICA
-
-La corriente eléctrica es la circulación de cargas o electrones en una sola dirección a través de un circuito eléctrico cerrado. Es un flujo dirigido de cargas, a través de un material más o menos conductor, la unidad de medida internacional es el amperio.
-Cuando fluye carga, se dice que existe una corriente. Luego, la corriente se define como el ritmo al que fluye la carga eléctrica a través de esta superficie. Serway Jewet, (1977)
-
-![image](https://user-images.githubusercontent.com/105374903/169439216-0abe31bb-5f87-4bea-ba73-6adc4d1db38a.png)
-
-#### RESISTENCIA
-
-Es un efecto físico que afecta la corriente eléctrica; se trata de una oposición o dificultad que presentan los materiales a que por ellos circule corriente eléctrica. La resistencia hace  que las partículas portadoras de carga eléctrica, no se mueven libremente por el material conductor; sino que en su recorrido van chocando con los átomos fijos que forman dicho material; la unidad de medida internacional es el ohmio.
-
-![image](https://user-images.githubusercontent.com/105374903/169439253-b18675c0-18a6-4d41-9c86-5b9c1efe3970.png)
-
-#### NOTACIÓN CIENTÍFICA
-
-La notación científica nos permite escribir números muy grandes o muy pequeños de forma abreviada. Esta notación consiste simplemente en multiplicar por una potencia de base 10 con exponente positivo o negativo.
-
-![image](https://user-images.githubusercontent.com/105374903/169439390-2eea40bc-99e1-49aa-b81e-8dc54f63d64b.png)
-
-#### NOTACIÓN DE INGENIERIA 
-
-La costumbre en ingeniería es utilizar una notación científica ligeramente modificada solo que el exponente se expresa en múltiplos de 3. Esto significa que los dígitos a la izquierda del punto decimal están contenidos en el intervalo de 1 a 999.
-
-#### PREFIJOS
-
-Muchos números tienen nombres derivados del griego o del latín. Los ingenieros y científicos utilizan prefijos para los números de acuerdo con lo establecido en el Système International d'Unités (SI).
-A continuación, se enumeran algunos de los prefijos más comunes en la ingeniería. Observa que los exponentes son múltiplos de tres. Estos prefijos son más cortos y más fáciles de decir o abreviar que sus equivalentes numéricos: “x 10 elevado a la ….”
-
-![image](https://user-images.githubusercontent.com/105374903/169439898-f9c0325c-90c2-4f2f-8348-5987ebaf78f2.png)
-
 ![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/170170727-0ae7ab6c-767d-447e-93b4-6b96a692a73f.png)
 
 ![d3](https://user-images.githubusercontent.com/105374903/170180317-e7839651-bc49-4e95-914e-8ac065b76589.png)
