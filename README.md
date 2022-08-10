@@ -14,6 +14,9 @@
 - Realizar mediciones de voltaje y amperaje en circuitos básicos.
 
 #### 2. MARCO TEORICO
+![Infografía de Proceso Proyecto en Papel Resaltado Blanco](https://user-images.githubusercontent.com/105374903/183790134-c95d0f9e-b8e9-4751-aa4e-08f33b63f9a0.png)
+
+
 
 ![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/170170727-0ae7ab6c-767d-447e-93b4-6b96a692a73f.png)
 
